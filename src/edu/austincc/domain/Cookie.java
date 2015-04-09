@@ -5,6 +5,7 @@ public class Cookie {
 	String noseColor = "blankColor";
 	String eyeColor = "blankColor";
 	String mouthColor = "blankColor";
+	int sizeInCm = 5;
 	
 	public Cookie(String eyeColor, String mouthColor) {
 		super();
